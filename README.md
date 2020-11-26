@@ -3,8 +3,8 @@
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 
 - 🔭 I’m currently working on ... Self learning
-- 🌱 I’m currently learning ... (MERN Stack) MogoDb, Express Js, React Js,
-- 👯 I’m looking to collaborate on ... MERN STACK DEV
+- 🌱 I’m currently learning ... VueJs
+- 👯 I’m looking to collaborate on ... VUE DEV
 - 🤔 I’m looking for help with ... Expert Programmer
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... Social Media
