@@ -3,8 +3,8 @@
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 
 - 🔭 I’m currently working on ... Self learning
-- 🌱 I’m currently learning ... VueJs
-- 👯 I’m looking to collaborate on ... VUE DEV
+- 🌱 I’m currently learning ... ReactJs
+- 👯 I’m looking to collaborate on ... REACT DEV
 - 🤔 I’m looking for help with ... Expert Programmer
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... Social Media
