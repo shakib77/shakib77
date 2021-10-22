@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate on ... REACT DEV
 - 🤔 I’m looking for help with ... Expert Programmer
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... Social Media
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shakib77" alt="shakib" /> </p>
 
