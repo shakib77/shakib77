@@ -3,7 +3,7 @@
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 
 - 🔭 I’m currently working on ... Self learning
-- 🌱 I’m currently learning ... ReactJs
+- 🌱 I’m currently working on ... NextJs
 - 👯 I’m looking to collaborate on ... REACT DEV
 - 🤔 I’m looking for help with ... Expert Programmer
 - 💬 Ask me about ... Anything
