@@ -32,11 +32,11 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/>
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakib77&layout=compact&hide=html" alt="shakib77 " /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakib77&layout=compact&hide=html" alt="shakib77" /></p>
 
 <br />
 <br />
 
 
 ---
-  <img align="left" alt="shakib's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shakib77&show_icons=true&hide_border=true" />
+  <img align="left" alt="shakib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shakib77&show_icons=true&theme=highcontrast&hide_border=true" />
